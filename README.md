@@ -4,5 +4,5 @@ This is an animated counter with multiple counters and an aesthetically pleasing
 ## Insipred from the following Designs :
 https://in.pinterest.com/pin/754141900096857987/
 https://www.soumya-jit.tech/
-## Screen Shots
+## Screen Shot
 ![image1](./img/img1.jpeg)
